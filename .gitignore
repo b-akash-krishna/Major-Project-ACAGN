@@ -49,3 +49,43 @@ skills-lock.json
 
 # AI Agents
 .agents/
+
+# Offline Pipeline Scripts (Not for GitHub)
+src/01_extract.py
+src/02_embed.py
+src/03_train.py
+src/embedding_utils.py
+run_pipeline.py
+
+# Unwanted Analysis Scripts & Auxiliaries
+src/01b_select_features.py
+src/02a_finetune_clinical_t5.py
+src/04_diagnose.py
+src/05_analyze.py
+src/06_visualize.py
+src/07_api.py
+src/09_compare_models.py
+src/10_gate_interpretability.py
+src/11_fairness_calibration.py
+src/12_early_warning.py
+src/13_temporal_drift.py
+src/14_eicu_validation.py
+src/14_hybrid_ensemble.py
+src/15_generate_metric_diagrams.py
+src/15_mimic3_validation.py
+src/16_monitor_validation.py
+src/17_analyze_labels.py
+src/18_prevalence_diagnostic.py
+src/19_check_balanced_checkpoint.py
+src/colab_gated_train.py
+src/colab_train.py
+src/concat_mlp_baseline.py
+src/plot_style.py
+src/notebook/
+diagnose_model.py
+find_samples.py
+generate_frozen_probs.py
+integration_example.py
+print_features.py
+subgroup_threshold_optimizer.py
+test_predict.py
