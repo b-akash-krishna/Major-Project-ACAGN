@@ -3,6 +3,8 @@ data/
 models/
 physionet.org/
 results/
+outputs/
+plots/
 figures/
 !figures/journal/
 
@@ -27,6 +29,8 @@ importance_check.json
 results_check.json
 embeddings_check.json
 large_files.txt
+features_output.txt
+skills-lock.json
 
 # Binary and Library files
 *.dll
@@ -42,3 +46,6 @@ large_files.txt
 *.csv
 *.tsv
 *.log
+
+# AI Agents
+.agents/
