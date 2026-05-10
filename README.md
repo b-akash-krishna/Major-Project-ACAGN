@@ -1,6 +1,6 @@
-# TRANCE Framework: Installation & Setup Guide
+# ACAGN Framework: Installation & Setup Guide
 
-This guide details the prerequisites and step-by-step instructions for deploying the TRANCE framework on a new system.
+This guide details the prerequisites and step-by-step instructions for deploying the ACAGN framework on a new system.
 
 ---
 
